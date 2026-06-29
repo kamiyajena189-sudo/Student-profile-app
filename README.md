@@ -17,5 +17,4 @@ This app allows you to add, view and manage student profiles including name, age
 - React Hooks (useState)
 
 ## Setup
-
 1. Install dependencies
