@@ -1,3 +1,4 @@
+import { useState } from 'react';
 // Student Profile App - Kamiya Shubhadarshini Jena
 import { Image, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 
